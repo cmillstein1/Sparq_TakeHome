@@ -11,7 +11,7 @@ import SwiftUI
 struct Sparq_TakeHomeApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            SplashScreenView()
         }
     }
 }
